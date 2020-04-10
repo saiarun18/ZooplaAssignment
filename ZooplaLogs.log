@@ -1,0 +1,12 @@
+2019-08-23 15:46:20,044  INFO [main] WebEventListener:14 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-08-23 15:46:23,722  INFO [main] WebEventListener:18 - Navigated to:'https://www.zoopla.co.uk/'
+2019-08-23 15:46:23,909  INFO [main] HomePage:64 - Trying to find Element By : By.name: q
+2019-08-23 15:46:24,470  INFO [main] HomePage:68 - Found Element By : By.name: q
+2019-08-23 15:46:30,264  INFO [main] HomePage:64 - Trying to find Element By : By.xpath: //button[@type='submit']
+2019-08-23 15:46:30,288  INFO [main] HomePage:68 - Found Element By : By.xpath: //button[@type='submit']
+2019-08-23 15:46:30,289  INFO [main] HomePage:31 - Trying to click on: [[ChromeDriver: chrome on XP (b3fbe7ef0b4faf444b22a51f2f695801)] -> xpath: //button[@type='submit']]
+2019-08-23 15:46:40,391  INFO [main] HomePage:35 - Clicked on: [[ChromeDriver: chrome on XP (b3fbe7ef0b4faf444b22a51f2f695801)] -> xpath: //button[@type='submit']]
+2019-08-23 15:46:40,408  INFO [main] ForSalePage:64 - Trying to find Element By : By.tagName: h1
+2019-08-23 15:46:40,426  INFO [main] ForSalePage:68 - Found Element By : By.tagName: h1
+2019-08-23 15:46:45,784  INFO [main] WebEventListener:14 - Before navigating to: 'https://www.zoopla.co.uk/'
+2019-08-23 15:46:48,426  INFO [main] WebEventListener:18 - Navigated to:'https://www.zoopla.co.uk/'
